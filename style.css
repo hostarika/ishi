@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.Pixer{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.number{
+padding: 20px;
+    background-color: black;
+    color: white;
+}
+.main{
+    
+}
+.half1{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 30px;
+}
+.g{
+    width: 500px;
+}
+.qator1{
+display: flex;
+justify-content: space-between;
+}
+.qator2{
+display: flex;
+justify-content: space-between;
+}
+.box1{
+width: 400px;
+border: 1px solid;
+padding: 20px;
+}
+.box2{
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+}
+.box3{
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+}
+.box4{
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+}
+.box5{
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+}
+.half2{
+    margin: 30px;
+}
+.box:hover{
+    background-color: greenyellow;
+    color: white;
+    border: none;
+}
+.Pixer:hover{
+    background-color: greenyellow;
+    color: white;
+}
+.number:hover{
+    background-color: greenyellow;
+    color: black;
+}
+.More:hover{
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    background-color: greenyellow;
+}
